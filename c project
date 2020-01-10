@@ -1,3 +1,5 @@
 the first project
 
 printf("hello world");
+
+print("hello world")
